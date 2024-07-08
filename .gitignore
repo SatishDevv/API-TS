@@ -51,7 +51,7 @@ tsconfig.tsbuildinfo
 .DS_Store
 
 # Swagger generated files
-swagger_output.json
+# swagger_output.json
 
 # Coverage directory used by tools like istanbul
 coverage/
